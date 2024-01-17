@@ -16,4 +16,4 @@ This repository houses the source code of an advanced web application designed f
 
 
 
-<img align="center" height= "250"  wieght = "300" src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/cp.jpg" alt="screen App" text-align: center>
+<img align="center" height= "300"  wieght = "300" src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/cp.jpg" alt="screen App" text-align: center>
