@@ -8,4 +8,4 @@ This repository houses the source code of an advanced web application designed f
 
 # Technologies Used:
 * <strong>Natural language processing (NLP)        :</strong> <em>Long Short Term Memory (<a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM" target="_blank">LSTM</a>)</em> 
-* <strong>Machine Learning Framework               :</strong> <em><a href="[https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM](https://www.tensorflow.org/?hl=fr)https://www.tensorflow.org/?hl=fr" target="_blank">TensorFlow</a></em> 
+* <strong>Machine Learning Framework               :</strong> <em><a href="https://www.tensorflow.org/?hl=fr" target="_blank">TensorFlow</a></em> 
