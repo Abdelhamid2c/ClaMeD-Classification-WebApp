@@ -1,7 +1,7 @@
 
- <h1 align="center" >une application web de classification des abstracts médicaux.</h1><br>
+ <h1 align="center" >une application web de classification des abstracts médicaux</h1><br>
 
-<img align="center" height= "300"  wieght = "300" src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/cp.jpg" alt="screen App" text-align: center>
+<img align="center" height= "300"  wieght = "300" src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/ClaMeD%20-%20Brave%201_17_2024%2012_13_02%20PM.png" alt="screen Homepage" text-align: center>
 <br><br>
 
 # Description:
