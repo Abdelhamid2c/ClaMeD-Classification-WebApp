@@ -2,12 +2,6 @@
  <h1 align="center" >A web application for the classification of medical abstracts</h1><br>
 
 <img align="center" height= "300"  wieght = "300" src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/ClaMeD%20-%20Brave%201_17_2024%2012_13_02%20PM.png" alt="screen Homepage" text-align: center>
-<video width="320" height="240" autoplay loop>
-  <source src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/homepage.mp4" type="video/mp4">
-</video>
-<video width="320" height="240"  autoplay loop>
-  <source src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/App.mp4" type="video/mp4">
-</video>
 
 <br><br>
 
